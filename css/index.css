@@ -71,6 +71,10 @@
         align-self: center;
     }
 
+.menu-social-link {
+    color: #ffffff;
+}
+
 .menu-social-link:not(:last-child) {
     margin-right: 1.5rem;
 }
