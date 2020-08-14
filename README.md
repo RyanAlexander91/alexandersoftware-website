@@ -24,7 +24,7 @@ The main goal when deciding to build my portfolio website, was to improve my web
 
 ## Current Issues:
 
-The current issues can be found on [Project Issues](https://github.com/RyanAlexander91/Portfolio-Website/issues). If you find an issue or have any feedback, please let me know by posting an issue and I'll get back to you as soon as I can.
+The current issues can be found on [Project Issues](https://github.com/RyanAlexander91/alexandersoftware-website/issues). If you find an issue or have any feedback, please let me know by posting an issue and I'll get back to you as soon as I can.
 
 ## Lessons Learned: (Coming Soon)
 
