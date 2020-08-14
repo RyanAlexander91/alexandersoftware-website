@@ -1,0 +1,66 @@
+ [
+    {
+      "id": "1",
+      "name": "Walks Near Me",
+      "type": "Mobile",
+      "image": "images/walks-near-me/walks-near-me-thumbnail.webp",
+      "fallback_image": "images/walks-near-me/walks-near-me-thumbnail.jpg",
+      "feature_image_mobile": "images/walks-near-me/walks-near-me-feature-mobile.jpg",
+      "feature_image_tablet": "images/walks-near-me/walks-near-me-feature-tablet.jpg",
+      "feature_image_desktop": "images/walks-near-me/walks-near-me-feature-desktop.jpg",
+      "overview": "Built using Android Studio, this native Android application showcases local walks around London. Includes features such as Dark Mode and Geolocation.",
+      "technologies_used": [
+        {
+          "name": "Java",
+          "font_awesome": "fab fa-java fa-fw"
+        },
+        {
+          "name": "Android",
+          "font_awesome": "fab fa-android fa-fw"
+        },
+        {
+          "name": "Geolocation",
+          "font_awesome": "fas fa-location-arrow fa-fw"
+        }
+      ],
+      "github_url": "",
+      "challenges": "Android development was always something that I wanted to learn back during University. So, when I decided to build Walks Near Me, I immediately set out to challange myself. The application needed to have a clean layout which users would be able to navigate with ease.",
+      "outcomes": "As this project is still under development, outcomes will added when project is complete"
+    },
+    {
+      "id": "2",
+      "name": "Portfolio Website",
+      "type": "Mobile and Web",
+      "image": "images/portfolio-website/portfolio-website-thumbnail.webp",
+      "fallback_image": "images/portfolio-website/portfolio-website-thumbnail.jpg",
+      "feature_image_mobile": "images/portfolio-website/portfolio-website-thumbnail.jpg",
+      "feature_image_tablet": "images/portfolio-website/portfolio-website-thumbnail.jpg",
+      "feature_image_desktop": "images/portfolio-website/portfolio-website-thumbnail.jpg",
+      "overview": "Portfolio Website built using HTML5, CSS3, JavaScript and ASP.NET Core 3.1.",
+      "technologies_used": [
+        {
+          "name": "HTML5",
+          "font_awesome": "fab fa-html5 fa-fw"
+        },
+        {
+          "name": "CSS3",
+          "font_awesome": "fab fa-css3-alt fa-fw"
+        },
+        {
+          "name": "JavaScript",
+          "font_awesome": "fab fa-js fa-fw"
+        },
+        {
+          "name": "JSON",
+          "font_awesome": "fas fa-database fa-fw"
+        },
+        {
+          "name": "ASP.NET Core",
+          "font_awesome": "fab fa-microsoft fa-fw"
+        }
+      ],
+      "github_url": "https://github.com/RyanAlexander91/Portfolio-Website",
+      "challenges": "The initial aim when building this portfolio website was for me to improve my JavaScript knowledge. Therefore I decided it had to be built using no front end frameworks. As an additional challenge I wanted to be compatible with all supported web browser versions which included including Internet Explorer 11.",
+      "outcomes": "This project is still under development. Outcomes will be posted soon"
+    }
+  ]

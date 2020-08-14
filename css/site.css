@@ -1,0 +1,13 @@
+﻿/* Website Designed and Built by Ryan Alexander
+*  
+*  This website was built from scratch using Mobile First Design Principles
+*
+*  This Stylesheet is organised in the following order:
+*   
+*  * Mobile - Core default styles for Mobile devices
+*  * Tablet - Adjustments for Tablet Devices
+*  * Desktop - Adjustments for Desktop
+*/
+
+@import "core.css";
+@import "index.css";

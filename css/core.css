@@ -1,0 +1,74 @@
+﻿/* Core CSS */
+
+/* Box Sizing - Border Box */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  display: block;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 1rem;
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+  background-color: #fcfcfc;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+
+/* Footer Section */
+
+#footer {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  background-color: #083347;
+  color: #ffffff;
+  align-items: center;
+  justify-content: space-evenly;
+  font-size: 1rem;
+}
+
+.footer-section {
+  margin-bottom: 1rem;
+}
+
+#footer-copyright-section > a {
+  color: #ffffff;
+}
+
+#footer-report-issue-section > a {
+  color: #ffffff;
+}
+
+#footer-social-section {
+  font-size: 2rem;
+}
+
+#footer-social-section > a {
+  margin-right: 1rem;
+}
+
+/* Tablet Styling */
+
+@media only screen and (min-width: 768px) {
+
+  #footer {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+
+  .footer-section {
+    margin-bottom: initial;
+  }
+}
