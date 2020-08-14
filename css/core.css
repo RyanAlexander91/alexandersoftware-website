@@ -11,8 +11,6 @@ body {
   display: block;
   margin: 0;
   padding: 0;
-  height: 100%;
-  width: 100%;
   font-size: 1rem;
   font-family: "Roboto", sans-serif;
   scroll-behavior: smooth;
@@ -22,8 +20,6 @@ body {
 a {
   text-decoration: none;
 }
-
-
 
 /* Footer Section */
 
@@ -66,7 +62,7 @@ a {
   #footer {
     flex-direction: row;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
   }
 
   .footer-section {
