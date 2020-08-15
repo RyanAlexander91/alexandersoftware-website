@@ -1,0 +1,37 @@
+/* Footer Section */
+
+#footer {
+  display: flex;
+  flex-grow: 0;
+  flex-direction: column;
+  padding: 1rem;
+  color: #ffffff;
+  align-items: center;
+  justify-content: space-evenly;
+  text-align: center;
+}
+
+.footer-section {
+  margin-bottom: 1rem;
+}
+
+#footer-copyright-section>a {
+  color: #ffffff;
+}
+
+#footer-report-issue-section>a {
+  color: #ffffff;
+}
+
+/* Tablet Styling */
+
+@media only screen and (min-width: 768px) {
+  #footer {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+  }
+  .footer-section {
+    margin-bottom: initial;
+  }
+}

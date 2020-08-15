@@ -1,0 +1,27 @@
+﻿main {
+    display: flex;
+    flex-grow: 1;
+}
+
+/* Customise Hero Section*/
+
+#section-hero-container {
+    width: 100%;
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    color: #ffffff;
+}
+
+/* Hero Content */
+
+#hero-content {
+    display: block;
+    margin: auto;
+    text-align: center;
+    padding: 1rem;
+}
+
+#hero-content.mobile-menu-enabled {
+    display: none;
+}
